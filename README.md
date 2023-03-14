@@ -1,4 +1,4 @@
-<h1 align="center">  Hi, I’m @Shreya Ranjan 👋</h1>
+<h1 align="center">  Hi, I’m Shreya Ranjan 👋</h1>
 <br />
 <h3>
   
