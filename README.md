@@ -11,6 +11,7 @@
   💻 Tech Stack:
   
   
+  
   <img src="https://img.icons8.com/color/64/null/python--v1.png"/>
   <img src="https://img.icons8.com/stickers/70/null/sql.png"/>
   <img src="https://img.icons8.com/color/64/null/power-bi.png"/>
