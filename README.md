@@ -1,8 +1,7 @@
 <h1 align="center">  Hi, I’m Shreya Ranjan 👋</h1>
 <br />
 <h3>
-  
-- 👋 Hi, I’m @Shreya Ranjan              <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="220" />                                       
+               <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="230" />                                       
 - 👀 I’m interested in Data analytics and data science
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on Data science projects                                   
