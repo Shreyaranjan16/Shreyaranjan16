@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Shreya Ranjan                                                     <img align='right' alt='coding' width='300'                   src='https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif'>
+- 👋 Hi, I’m @Shreya Ranjan                                                     
 - 👀 I’m interested in Data analytics and data science
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on Data science projects                                   
 - 📫 How to reach me https://www.linkedin.com/in/shreya-ranjan-6a8086220
-
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!---
