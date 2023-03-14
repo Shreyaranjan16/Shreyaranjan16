@@ -1,6 +1,4 @@
-<p align='center'> <img src="./Animation.gif" /> </p>
-
-<h1 align="center"> Hello My Name is Shreya Ranjan 👋</h1>
+<h1 align="center">  Hi, I’m @Shreya Ranjan 👋</h1>
 <br />
 <h3>
   
