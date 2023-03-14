@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Shreya Ranjan                                                    
-- <img align='right' alt='coding' width='400'                   src='https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif'>
+- 👋 Hi, I’m @Shreya Ranjan                                                     <img align='right' alt='coding' width='200'                   src='https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif'>
 - 👀 I’m interested in Data analytics and data science
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on Data science projects                                   
