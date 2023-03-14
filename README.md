@@ -1,3 +1,9 @@
+<p align='center'> <img src="./Animation.gif" /> </p>
+
+<h1 align="center"> Hello My Name is Shreya Ranjan 👋</h1>
+<br />
+<h3>
+  
 - 👋 Hi, I’m @Shreya Ranjan              <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />                                       
 - 👀 I’m interested in Data analytics and data science
 - 🌱 I’m currently learning Machine learning 
