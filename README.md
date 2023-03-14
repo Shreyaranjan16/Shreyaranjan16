@@ -1,7 +1,11 @@
 <h1 align="center">  Hi, I’m Shreya Ranjan 👋</h1>
 <br />
 <h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />    
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
+</a>
+
+<br/>
+<br/>
   
   
   
