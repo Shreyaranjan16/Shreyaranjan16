@@ -3,11 +3,8 @@
 <h3>
                <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />                                       
 👀 I’m interested in Data analytics and Data science
-  
 🌱 I’m currently learning Full stack Data Scientist
-  
 💞️ I’m looking to collaborate on Data science projects 
-  
 📫 How to reach me https://www.linkedin.com/in/shreya-ranjan-6a8086220
   
 💻 Tech Stack:
