@@ -6,8 +6,11 @@
   
   
 -👀 I’m interested in Data analytics and Data science.
+  
 -🌱 I’m currently learning Full stack Data Scientist.
+  
 -💞️ I’m looking to collaborate on Data science projects.
+  
 -📫 How to reach me https://linkedin.com/in/shreya-ranjan16
   
 💻 Tech Stack:
