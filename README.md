@@ -16,5 +16,3 @@ Shreyaranjan16/Shreyaranjan16 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 
 --->
-<p align="left"> <a href="https://discord.com/users/759139442493095947" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zoronium" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/advaitj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<h2 align="center">Programing Languages / Technologies</h2>
