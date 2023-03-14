@@ -23,7 +23,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyaranjan16&theme=darcula&hide_border=false)<br/>
 <!---
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
