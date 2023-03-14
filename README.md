@@ -7,7 +7,12 @@
 - 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on Data science projects                                   
 - 📫 How to reach me https://www.linkedin.com/in/shreya-ranjan-6a8086220
-
+  
+  💻 Tech Stack:
+  <img src="https://img.icons8.com/color/64/null/python--v1.png"/>
+  <img src="https://img.icons8.com/stickers/70/null/sql.png"/>
+  <img src="https://img.icons8.com/color/64/null/power-bi.png"/>
+  
 
 <!---
 Shreyaranjan16/Shreyaranjan16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
